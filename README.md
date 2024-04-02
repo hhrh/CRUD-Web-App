@@ -4,13 +4,13 @@ ASP.NET MVC project.
 Within this web application, you are able to perform CRUD operations for user records.
 
 The user is able to do the following actions using the GUI:
-create records using the provided input boxes at the top of the page.
-edit an existing records.
-delete existing records.
+- create records using the provided input boxes at the top of the page.
+- edit an existing records.
+- delete existing records.
 
-All actions are designed to update within a servers database in realtime (mySQL).
-All actions dynamically update the page without refresh, providing an update message of the completed action.
-
+All actions are designed to update within a servers database in realtime (mySQL).<br>
+All actions dynamically update the page without refresh.<br>
+An update message of the completed action is returned (given specified API return code).<br>
 
 resources used:
 https://www.youtube.com/@rebelsdeveloper367/
