@@ -5,7 +5,7 @@ Within this web application, you are able to perform CRUD operations for user re
 
 The user is able to do the following actions using the GUI:
 - create records using the provided input boxes at the top of the page.
-- edit an existing records.
+- edit an existing record.
 - delete existing records.
 
 All actions are designed to update within a servers database in realtime (mySQL).<br>
