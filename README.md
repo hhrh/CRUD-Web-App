@@ -12,8 +12,6 @@ All actions are designed to update within a servers database in realtime (mySQL)
 All actions dynamically update the page without refresh.<br>
 An update message of the completed action is returned (given specified API return code).<br>
 
-resources used: <br>
-https://www.youtube.com/@rebelsdeveloper367/ <br>
 https://www.mysql.com/products/workbench/ <br>
 https://learn.microsoft.com/en-us/aspnet/mvc/
 
